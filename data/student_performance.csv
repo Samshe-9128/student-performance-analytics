@@ -1,0 +1,901 @@
+student_id,program,attendance_pct,study_hours_week,assignment_avg,midterm_score,final_score,performance_band
+S0001,Data Analytics,93.4,9.6,58.6,70.3,66.2,Proficient
+S0002,Data Analytics,79.8,18.7,44.2,59.5,60.6,Proficient
+S0003,Data Analytics,71.8,8.3,73.4,80.7,78.1,Proficient
+S0004,Business,90.6,15.0,49.2,62.2,59.9,Developing
+S0005,Computer Science,100.0,16.4,75.5,70.4,70.2,Proficient
+S0006,Computer Science,76.1,8.0,89.1,79.4,55.5,Developing
+S0007,Data Analytics,90.5,8.7,52.8,59.3,48.5,Developing
+S0008,Data Analytics,75.4,18.7,63.6,76.8,55.8,Developing
+S0009,Mathematics,70.5,16.7,71.8,63.9,83.3,Excellent
+S0010,Data Analytics,84.8,12.7,59.6,49.6,72.7,Proficient
+S0011,Computer Science,54.5,5.0,57.2,71.0,68.1,Proficient
+S0012,Computer Science,79.6,13.6,50.4,61.2,64.4,Proficient
+S0013,Mathematics,79.3,10.5,61.5,56.1,49.0,Developing
+S0014,Data Analytics,79.2,11.7,74.6,71.3,56.4,Developing
+S0015,Mathematics,79.7,9.1,83.1,70.2,66.3,Proficient
+S0016,Computer Science,99.8,9.6,62.7,55.4,61.9,Proficient
+S0017,Computer Science,64.7,11.0,76.3,76.9,68.3,Proficient
+S0018,Business,86.0,7.4,64.5,32.8,35.2,At risk
+S0019,Data Analytics,87.7,13.6,56.5,65.9,64.8,Proficient
+S0020,Computer Science,82.0,6.7,93.3,67.6,75.8,Proficient
+S0021,Computer Science,63.0,20.8,30.6,72.8,50.5,Developing
+S0022,Data Analytics,83.0,7.1,58.9,59.9,55.7,Developing
+S0023,Computer Science,70.2,16.5,79.2,53.3,51.2,Developing
+S0024,Computer Science,100.0,9.5,77.3,90.5,88.0,Excellent
+S0025,Mathematics,83.7,10.6,100.0,44.7,61.9,Proficient
+S0026,Computer Science,72.5,12.3,82.4,74.7,63.4,Proficient
+S0027,Computer Science,80.2,14.9,87.4,46.2,44.9,Developing
+S0028,Computer Science,65.0,5.6,97.1,92.4,62.2,Proficient
+S0029,Business,70.5,21.4,85.4,70.4,51.8,Developing
+S0030,Mathematics,80.6,12.4,76.5,51.7,65.8,Proficient
+S0031,Mathematics,71.6,15.7,55.3,90.8,73.3,Proficient
+S0032,Computer Science,73.5,9.4,69.3,33.2,58.9,Developing
+S0033,Computer Science,80.9,6.9,89.1,61.5,67.4,Proficient
+S0034,Computer Science,64.3,17.6,48.6,69.3,50.1,Developing
+S0035,Computer Science,88.0,10.5,84.2,77.6,76.6,Proficient
+S0036,Computer Science,88.4,10.2,67.8,87.0,72.5,Proficient
+S0037,Computer Science,86.6,17.8,70.5,89.1,56.4,Developing
+S0038,Computer Science,94.7,10.7,65.3,53.0,68.4,Proficient
+S0039,Computer Science,73.4,15.7,49.2,81.3,63.7,Proficient
+S0040,Computer Science,99.5,17.8,98.4,67.6,73.4,Proficient
+S0041,Computer Science,72.3,15.6,50.7,83.1,64.7,Proficient
+S0042,Mathematics,85.7,7.8,82.8,87.4,51.6,Developing
+S0043,Computer Science,97.1,19.2,64.5,40.2,60.0,Proficient
+S0044,Data Analytics,96.6,14.3,76.8,95.7,63.3,Proficient
+S0045,Data Analytics,87.1,20.0,83.8,66.6,57.1,Developing
+S0046,Data Analytics,94.5,23.6,93.7,79.7,78.2,Proficient
+S0047,Mathematics,79.2,14.9,78.9,60.3,61.7,Proficient
+S0048,Mathematics,62.8,5.3,77.4,38.7,62.3,Proficient
+S0049,Data Analytics,95.0,16.8,63.3,56.9,64.2,Proficient
+S0050,Computer Science,100.0,12.5,58.6,69.7,60.9,Proficient
+S0051,Business,89.6,7.7,100.0,64.8,65.0,Proficient
+S0052,Computer Science,77.7,15.8,57.8,60.5,57.5,Developing
+S0053,Mathematics,80.9,11.3,51.2,34.5,64.6,Proficient
+S0054,Mathematics,95.3,12.6,61.3,96.2,74.9,Proficient
+S0055,Business,71.7,9.4,71.0,85.5,54.9,Developing
+S0056,Mathematics,63.2,5.9,53.1,95.3,49.9,Developing
+S0057,Mathematics,80.6,15.0,58.7,68.3,53.3,Developing
+S0058,Mathematics,93.0,6.9,85.4,50.4,67.4,Proficient
+S0059,Mathematics,96.5,12.2,63.9,56.3,45.4,Developing
+S0060,Data Analytics,90.7,13.1,68.3,64.2,68.7,Proficient
+S0061,Data Analytics,80.6,9.0,84.6,73.0,73.1,Proficient
+S0062,Mathematics,84.7,11.3,73.9,89.4,75.0,Proficient
+S0063,Data Analytics,80.3,14.0,89.2,42.1,70.0,Proficient
+S0064,Computer Science,93.0,13.7,74.2,41.1,71.9,Proficient
+S0065,Data Analytics,78.7,11.6,64.8,47.5,72.2,Proficient
+S0066,Data Analytics,74.9,11.0,75.1,86.2,44.6,Developing
+S0067,Business,97.0,14.8,50.5,45.7,40.9,Developing
+S0068,Computer Science,77.1,17.3,47.5,53.0,68.2,Proficient
+S0069,Computer Science,80.2,3.7,60.8,43.0,61.3,Proficient
+S0070,Computer Science,60.4,14.6,84.5,77.6,60.1,Proficient
+S0071,Computer Science,85.4,18.5,71.9,93.9,88.9,Excellent
+S0072,Data Analytics,85.7,16.3,93.6,73.9,50.8,Developing
+S0073,Computer Science,70.9,9.7,71.0,96.2,45.7,Developing
+S0074,Computer Science,98.1,22.6,75.0,95.1,93.9,Excellent
+S0075,Mathematics,79.6,0.0,73.4,60.5,47.4,Developing
+S0076,Computer Science,100.0,14.6,63.5,81.7,64.7,Proficient
+S0077,Mathematics,66.8,10.3,78.8,56.7,56.2,Developing
+S0078,Mathematics,71.5,14.0,58.6,70.0,57.0,Developing
+S0079,Data Analytics,85.7,4.8,75.9,59.9,55.1,Developing
+S0080,Computer Science,62.5,11.3,91.0,59.8,57.9,Developing
+S0081,Computer Science,89.7,16.6,56.3,78.4,66.2,Proficient
+S0082,Data Analytics,82.3,12.8,89.6,81.9,66.3,Proficient
+S0083,Data Analytics,71.5,8.3,64.9,88.8,57.3,Developing
+S0084,Business,62.5,12.6,73.7,67.0,53.7,Developing
+S0085,Computer Science,71.7,11.0,80.5,26.8,45.3,Developing
+S0086,Computer Science,71.9,14.4,59.9,47.3,41.9,Developing
+S0087,Computer Science,80.4,9.9,70.1,62.5,67.2,Proficient
+S0088,Data Analytics,58.2,18.1,87.9,57.3,65.8,Proficient
+S0089,Computer Science,89.9,13.4,91.4,52.6,72.0,Proficient
+S0090,Computer Science,95.9,18.9,52.8,63.4,52.5,Developing
+S0091,Data Analytics,80.9,18.2,84.3,100.0,89.7,Excellent
+S0092,Computer Science,82.6,8.8,62.5,58.9,53.6,Developing
+S0093,Mathematics,95.8,17.8,67.7,45.0,61.5,Proficient
+S0094,Mathematics,67.5,4.9,82.6,78.2,71.6,Proficient
+S0095,Computer Science,79.1,11.4,79.8,75.9,58.8,Developing
+S0096,Data Analytics,99.3,18.2,77.1,48.0,59.6,Developing
+S0097,Data Analytics,87.8,9.1,66.9,53.1,51.3,Developing
+S0098,Computer Science,100.0,15.8,65.3,97.3,81.2,Excellent
+S0099,Data Analytics,71.5,11.9,87.9,78.4,68.3,Proficient
+S0100,Data Analytics,92.4,6.4,73.4,98.0,71.0,Proficient
+S0101,Computer Science,71.0,17.6,70.5,79.2,79.4,Proficient
+S0102,Computer Science,87.2,13.5,67.9,72.7,55.4,Developing
+S0103,Computer Science,100.0,12.1,55.8,59.5,52.1,Developing
+S0104,Computer Science,58.1,9.9,80.6,78.5,63.3,Proficient
+S0105,Computer Science,100.0,11.3,82.0,98.4,91.1,Excellent
+S0106,Data Analytics,68.4,24.4,74.3,96.1,65.9,Proficient
+S0107,Business,87.3,13.8,98.0,57.7,56.4,Developing
+S0108,Mathematics,81.3,17.7,85.0,77.8,61.3,Proficient
+S0109,Mathematics,96.0,8.8,95.6,57.8,73.3,Proficient
+S0110,Computer Science,80.7,15.8,58.7,79.5,68.9,Proficient
+S0111,Data Analytics,96.8,13.7,71.3,45.2,80.7,Excellent
+S0112,Data Analytics,72.1,12.0,87.3,68.0,64.6,Proficient
+S0113,Mathematics,84.6,12.4,87.3,27.1,54.3,Developing
+S0114,Business,100.0,21.2,93.0,23.9,68.4,Proficient
+S0115,Computer Science,61.2,19.9,100.0,66.5,71.8,Proficient
+S0116,Business,63.3,11.2,47.8,77.8,60.0,Proficient
+S0117,Data Analytics,86.6,0.2,67.1,69.1,52.4,Developing
+S0118,Mathematics,95.0,14.1,42.5,100.0,70.2,Proficient
+S0119,Computer Science,86.1,8.1,74.8,65.9,63.6,Proficient
+S0120,Data Analytics,81.9,9.4,87.1,48.5,51.9,Developing
+S0121,Business,89.2,13.6,49.3,67.7,75.0,Proficient
+S0122,Computer Science,77.6,4.2,64.7,87.3,84.7,Excellent
+S0123,Data Analytics,68.8,15.7,63.5,75.2,42.7,Developing
+S0124,Computer Science,81.8,13.9,64.8,74.5,57.2,Developing
+S0125,Data Analytics,74.0,15.7,68.3,96.6,74.4,Proficient
+S0126,Business,100.0,14.6,56.8,75.1,49.3,Developing
+S0127,Mathematics,84.7,0.2,62.7,56.4,45.0,Developing
+S0128,Computer Science,74.9,11.4,53.5,63.5,54.3,Developing
+S0129,Mathematics,78.3,18.3,69.7,60.7,36.4,At risk
+S0130,Business,69.6,11.2,80.0,67.3,65.2,Proficient
+S0131,Computer Science,66.8,11.0,82.0,50.2,59.1,Developing
+S0132,Computer Science,95.9,10.6,66.5,69.6,79.0,Proficient
+S0133,Data Analytics,83.4,11.6,72.5,66.6,62.2,Proficient
+S0134,Computer Science,74.8,15.3,85.9,70.0,68.5,Proficient
+S0135,Computer Science,87.2,14.0,77.7,69.9,67.1,Proficient
+S0136,Computer Science,58.8,10.1,83.8,34.1,33.1,At risk
+S0137,Computer Science,76.6,12.7,87.5,45.8,69.1,Proficient
+S0138,Data Analytics,70.1,15.9,75.5,63.7,64.3,Proficient
+S0139,Data Analytics,87.9,9.7,61.3,76.2,65.5,Proficient
+S0140,Computer Science,96.6,0.5,72.8,43.2,63.6,Proficient
+S0141,Business,89.2,16.3,66.8,84.5,65.0,Proficient
+S0142,Data Analytics,78.1,2.8,98.6,71.2,69.8,Proficient
+S0143,Data Analytics,100.0,10.9,71.1,100.0,78.3,Proficient
+S0144,Mathematics,90.6,8.0,95.6,82.8,69.4,Proficient
+S0145,Mathematics,89.0,9.7,75.3,100.0,70.8,Proficient
+S0146,Data Analytics,89.3,19.0,69.9,74.0,58.3,Developing
+S0147,Computer Science,68.4,9.3,79.8,60.1,44.2,Developing
+S0148,Data Analytics,96.4,11.7,83.4,79.9,58.2,Developing
+S0149,Data Analytics,92.3,8.8,74.7,65.5,54.4,Developing
+S0150,Mathematics,97.8,3.5,86.4,58.1,59.4,Developing
+S0151,Computer Science,80.2,8.4,59.0,44.3,52.5,Developing
+S0152,Computer Science,89.0,16.3,52.5,43.2,64.0,Proficient
+S0153,Data Analytics,74.1,18.4,60.2,80.2,72.9,Proficient
+S0154,Mathematics,70.7,8.9,60.8,78.3,64.5,Proficient
+S0155,Data Analytics,73.3,20.3,84.1,55.7,61.9,Proficient
+S0156,Data Analytics,89.5,3.7,61.7,69.7,67.1,Proficient
+S0157,Computer Science,60.3,20.8,68.4,78.4,68.6,Proficient
+S0158,Mathematics,78.7,4.9,75.3,62.3,66.7,Proficient
+S0159,Computer Science,79.2,2.4,87.8,51.0,57.9,Developing
+S0160,Mathematics,100.0,9.4,66.5,78.1,57.9,Developing
+S0161,Data Analytics,84.5,4.4,75.7,77.8,71.0,Proficient
+S0162,Mathematics,82.5,10.9,88.4,76.1,73.6,Proficient
+S0163,Computer Science,78.6,17.0,52.0,59.4,64.4,Proficient
+S0164,Computer Science,65.3,17.1,74.6,55.4,50.9,Developing
+S0165,Mathematics,82.6,20.3,80.8,82.0,65.6,Proficient
+S0166,Mathematics,95.2,17.6,72.9,60.8,76.2,Proficient
+S0167,Computer Science,85.9,10.4,58.0,77.4,67.6,Proficient
+S0168,Computer Science,57.9,16.8,76.4,81.8,75.7,Proficient
+S0169,Mathematics,100.0,16.1,67.6,71.4,59.8,Developing
+S0170,Mathematics,81.3,10.4,45.6,54.1,63.0,Proficient
+S0171,Mathematics,81.8,19.3,53.8,72.5,67.0,Proficient
+S0172,Mathematics,77.7,23.3,70.4,94.7,66.7,Proficient
+S0173,Computer Science,100.0,17.4,74.4,53.5,78.3,Proficient
+S0174,Data Analytics,77.7,4.4,75.2,37.2,62.5,Proficient
+S0175,Business,70.0,11.3,55.1,50.1,72.7,Proficient
+S0176,Data Analytics,65.7,14.9,56.7,87.6,75.7,Proficient
+S0177,Computer Science,100.0,12.2,64.0,58.0,55.8,Developing
+S0178,Business,85.5,4.6,84.5,57.1,72.9,Proficient
+S0179,Computer Science,88.2,8.5,74.9,58.0,73.6,Proficient
+S0180,Computer Science,77.3,7.2,58.5,27.8,50.2,Developing
+S0181,Business,91.2,8.1,100.0,57.0,70.6,Proficient
+S0182,Data Analytics,83.8,9.8,83.1,60.0,52.9,Developing
+S0183,Data Analytics,83.1,12.1,81.4,56.6,67.4,Proficient
+S0184,Data Analytics,73.1,7.6,86.7,63.8,63.6,Proficient
+S0185,Mathematics,91.4,13.3,100.0,61.7,74.2,Proficient
+S0186,Mathematics,92.3,14.3,61.3,89.7,63.5,Proficient
+S0187,Data Analytics,50.8,10.3,50.1,64.3,51.2,Developing
+S0188,Computer Science,85.2,8.5,68.1,87.2,54.0,Developing
+S0189,Computer Science,66.2,8.0,63.8,76.9,55.3,Developing
+S0190,Mathematics,69.1,9.3,83.0,24.4,48.9,Developing
+S0191,Data Analytics,84.6,11.6,70.1,83.8,55.4,Developing
+S0192,Computer Science,74.8,14.8,61.0,82.3,50.3,Developing
+S0193,Computer Science,91.1,21.8,62.3,61.2,71.7,Proficient
+S0194,Computer Science,90.9,9.1,77.7,63.2,79.2,Proficient
+S0195,Mathematics,89.6,14.3,75.2,53.8,68.1,Proficient
+S0196,Mathematics,81.7,10.0,64.0,60.2,43.6,Developing
+S0197,Data Analytics,98.3,10.2,61.2,72.8,54.4,Developing
+S0198,Mathematics,91.6,17.6,71.3,84.7,53.1,Developing
+S0199,Computer Science,90.0,24.0,71.7,81.3,73.0,Proficient
+S0200,Computer Science,49.8,9.0,83.4,45.0,56.8,Developing
+S0201,Computer Science,92.9,23.8,56.4,78.7,75.1,Proficient
+S0202,Computer Science,85.3,16.6,85.5,74.8,77.4,Proficient
+S0203,Data Analytics,97.1,7.0,63.5,31.7,49.1,Developing
+S0204,Data Analytics,100.0,10.4,54.2,77.8,81.3,Excellent
+S0205,Mathematics,84.7,4.7,74.1,92.3,60.0,Proficient
+S0206,Computer Science,73.3,9.5,53.2,86.3,67.9,Proficient
+S0207,Computer Science,85.0,6.8,71.8,68.1,57.3,Developing
+S0208,Data Analytics,86.6,9.5,55.8,60.5,59.9,Developing
+S0209,Computer Science,87.4,11.4,68.7,76.3,63.8,Proficient
+S0210,Computer Science,87.5,9.5,64.4,84.4,65.9,Proficient
+S0211,Computer Science,76.6,14.3,79.9,83.9,61.4,Proficient
+S0212,Mathematics,54.5,11.8,67.1,74.6,49.6,Developing
+S0213,Computer Science,69.0,14.6,57.4,62.4,54.8,Developing
+S0214,Data Analytics,92.9,16.0,71.6,79.4,77.5,Proficient
+S0215,Data Analytics,88.1,5.5,100.0,53.3,74.3,Proficient
+S0216,Computer Science,84.6,9.5,63.5,92.1,71.2,Proficient
+S0217,Computer Science,71.1,14.9,75.3,57.3,80.3,Excellent
+S0218,Mathematics,64.5,4.7,85.8,42.7,58.7,Developing
+S0219,Computer Science,77.0,20.6,68.8,75.9,60.6,Proficient
+S0220,Business,95.1,11.4,67.0,46.8,53.5,Developing
+S0221,Data Analytics,81.7,10.9,55.1,49.5,34.3,At risk
+S0222,Data Analytics,98.0,18.2,62.8,68.1,77.3,Proficient
+S0223,Data Analytics,82.8,10.2,83.4,57.8,74.4,Proficient
+S0224,Data Analytics,78.0,15.6,49.8,24.1,60.4,Proficient
+S0225,Computer Science,97.0,11.3,63.2,95.7,71.9,Proficient
+S0226,Computer Science,71.3,1.1,56.6,64.4,50.1,Developing
+S0227,Mathematics,79.4,15.2,66.3,75.4,70.5,Proficient
+S0228,Computer Science,84.7,15.9,71.8,54.7,90.6,Excellent
+S0229,Data Analytics,74.5,9.4,87.2,83.7,70.9,Proficient
+S0230,Data Analytics,78.2,6.2,73.9,96.5,63.0,Proficient
+S0231,Computer Science,74.5,10.7,79.5,94.8,81.1,Excellent
+S0232,Computer Science,71.8,15.7,72.2,80.7,68.4,Proficient
+S0233,Data Analytics,80.5,15.1,69.9,62.1,49.9,Developing
+S0234,Mathematics,76.3,13.7,83.4,88.3,87.2,Excellent
+S0235,Business,100.0,0.8,70.2,79.9,55.9,Developing
+S0236,Data Analytics,78.4,23.2,57.7,94.3,75.1,Proficient
+S0237,Data Analytics,100.0,9.4,86.7,54.9,64.0,Proficient
+S0238,Computer Science,91.0,13.9,77.8,39.9,65.3,Proficient
+S0239,Data Analytics,72.4,14.5,74.6,79.9,70.9,Proficient
+S0240,Data Analytics,89.9,13.3,65.0,60.7,57.3,Developing
+S0241,Computer Science,80.5,0.7,70.1,60.7,62.9,Proficient
+S0242,Computer Science,84.4,8.4,86.0,95.0,83.6,Excellent
+S0243,Computer Science,58.0,18.5,48.2,70.4,60.0,Proficient
+S0244,Computer Science,86.0,9.1,84.6,56.7,60.5,Proficient
+S0245,Computer Science,59.6,19.3,54.5,73.2,64.9,Proficient
+S0246,Business,96.4,8.5,83.2,49.0,69.6,Proficient
+S0247,Data Analytics,98.3,14.7,94.4,97.6,72.1,Proficient
+S0248,Mathematics,85.1,0.0,52.9,65.6,62.9,Proficient
+S0249,Computer Science,73.3,18.8,70.6,58.3,77.9,Proficient
+S0250,Data Analytics,48.4,19.2,85.0,77.4,79.4,Proficient
+S0251,Computer Science,79.5,7.6,73.6,56.8,58.9,Developing
+S0252,Mathematics,91.9,4.5,57.6,99.1,65.2,Proficient
+S0253,Computer Science,84.1,13.0,90.3,68.9,78.7,Proficient
+S0254,Computer Science,93.4,10.8,69.7,81.7,71.7,Proficient
+S0255,Data Analytics,92.2,9.6,84.3,40.8,40.5,Developing
+S0256,Data Analytics,94.4,20.3,100.0,91.0,79.8,Proficient
+S0257,Computer Science,93.7,14.0,56.5,50.4,67.2,Proficient
+S0258,Mathematics,77.1,14.3,80.5,86.0,71.9,Proficient
+S0259,Computer Science,69.1,17.3,86.0,80.4,73.6,Proficient
+S0260,Data Analytics,66.6,14.1,67.0,64.2,48.0,Developing
+S0261,Mathematics,100.0,13.4,96.2,57.7,60.5,Proficient
+S0262,Mathematics,81.7,10.1,89.6,50.3,74.4,Proficient
+S0263,Computer Science,82.0,6.6,96.3,68.4,78.9,Proficient
+S0264,Business,64.0,11.4,59.4,76.5,48.2,Developing
+S0265,Business,73.1,11.7,91.7,74.9,68.4,Proficient
+S0266,Computer Science,84.7,7.8,72.4,64.6,45.8,Developing
+S0267,Computer Science,75.6,16.8,74.3,51.7,48.7,Developing
+S0268,Mathematics,79.7,1.7,77.7,80.1,69.9,Proficient
+S0269,Data Analytics,96.3,15.7,61.7,73.6,74.9,Proficient
+S0270,Data Analytics,100.0,12.3,72.6,74.8,61.2,Proficient
+S0271,Computer Science,100.0,12.1,53.1,69.5,48.2,Developing
+S0272,Data Analytics,84.6,16.5,76.1,81.3,84.3,Excellent
+S0273,Mathematics,70.5,8.5,77.3,50.3,41.8,Developing
+S0274,Computer Science,80.5,14.9,82.0,60.0,61.7,Proficient
+S0275,Computer Science,80.3,20.4,53.2,61.1,64.1,Proficient
+S0276,Data Analytics,94.7,13.3,84.9,75.7,93.0,Excellent
+S0277,Data Analytics,67.9,7.9,53.3,80.1,57.0,Developing
+S0278,Business,90.4,14.6,67.2,73.0,78.0,Proficient
+S0279,Mathematics,55.9,14.0,93.7,39.1,57.6,Developing
+S0280,Data Analytics,66.9,9.5,53.1,63.6,44.6,Developing
+S0281,Data Analytics,68.0,13.1,64.7,57.5,48.9,Developing
+S0282,Data Analytics,84.6,14.6,81.7,56.8,65.9,Proficient
+S0283,Data Analytics,65.6,4.4,83.4,70.7,75.6,Proficient
+S0284,Business,69.4,8.2,57.1,46.5,46.2,Developing
+S0285,Mathematics,94.6,14.4,65.8,83.5,67.4,Proficient
+S0286,Data Analytics,53.2,10.6,86.6,67.7,71.3,Proficient
+S0287,Data Analytics,81.1,0.1,77.1,57.2,45.2,Developing
+S0288,Computer Science,68.2,19.2,77.3,92.3,68.9,Proficient
+S0289,Data Analytics,76.9,10.2,77.5,81.6,65.1,Proficient
+S0290,Computer Science,91.2,1.7,65.7,50.7,62.9,Proficient
+S0291,Business,66.8,14.2,47.5,78.6,72.9,Proficient
+S0292,Mathematics,78.7,8.8,73.2,62.4,56.9,Developing
+S0293,Computer Science,70.9,16.0,69.2,41.3,48.5,Developing
+S0294,Mathematics,90.6,9.3,59.1,85.4,64.8,Proficient
+S0295,Mathematics,66.5,12.8,64.2,73.5,76.4,Proficient
+S0296,Data Analytics,75.0,19.2,70.7,57.9,57.4,Developing
+S0297,Mathematics,100.0,15.1,82.0,80.7,64.1,Proficient
+S0298,Data Analytics,100.0,12.8,95.1,35.8,59.6,Developing
+S0299,Data Analytics,75.7,8.8,85.1,86.6,74.0,Proficient
+S0300,Computer Science,88.1,4.2,100.0,56.3,78.1,Proficient
+S0301,Business,99.3,13.3,63.9,65.5,60.0,Proficient
+S0302,Computer Science,80.3,20.1,69.6,62.3,76.3,Proficient
+S0303,Business,89.9,19.0,76.0,45.1,55.0,Developing
+S0304,Business,76.4,10.6,62.3,34.4,49.0,Developing
+S0305,Mathematics,80.2,13.8,69.8,63.2,63.6,Proficient
+S0306,Computer Science,85.0,9.5,80.7,45.6,43.9,Developing
+S0307,Business,88.5,8.9,56.9,74.7,55.8,Developing
+S0308,Data Analytics,95.6,6.0,56.2,86.8,74.7,Proficient
+S0309,Mathematics,100.0,19.7,87.3,60.8,73.3,Proficient
+S0310,Business,87.6,19.1,78.4,92.1,76.5,Proficient
+S0311,Data Analytics,72.9,10.8,54.6,59.7,60.4,Proficient
+S0312,Data Analytics,76.9,18.7,71.1,69.5,68.5,Proficient
+S0313,Computer Science,81.5,8.1,67.9,72.5,54.6,Developing
+S0314,Data Analytics,80.3,14.6,64.4,69.1,57.1,Developing
+S0315,Computer Science,67.7,16.6,47.9,57.5,62.4,Proficient
+S0316,Data Analytics,94.2,18.0,73.4,25.2,52.7,Developing
+S0317,Computer Science,58.0,0.0,78.1,51.0,57.1,Developing
+S0318,Business,71.8,13.1,63.1,57.9,49.1,Developing
+S0319,Data Analytics,85.2,15.5,100.0,53.7,68.2,Proficient
+S0320,Computer Science,71.7,13.6,88.2,71.1,51.9,Developing
+S0321,Computer Science,54.7,13.7,71.5,60.5,70.7,Proficient
+S0322,Computer Science,97.8,8.9,91.3,41.5,63.8,Proficient
+S0323,Computer Science,84.6,10.5,65.1,82.0,73.6,Proficient
+S0324,Computer Science,97.7,14.7,70.4,53.2,58.6,Developing
+S0325,Data Analytics,86.9,2.9,50.3,85.7,57.7,Developing
+S0326,Mathematics,77.5,9.6,70.6,67.3,62.1,Proficient
+S0327,Computer Science,90.6,8.8,100.0,88.3,61.9,Proficient
+S0328,Computer Science,100.0,6.5,73.8,54.5,61.8,Proficient
+S0329,Business,80.5,10.5,86.7,47.0,46.2,Developing
+S0330,Computer Science,94.0,16.2,73.1,61.9,63.0,Proficient
+S0331,Computer Science,94.6,12.0,88.2,49.3,70.1,Proficient
+S0332,Computer Science,72.6,11.6,59.9,71.4,66.0,Proficient
+S0333,Computer Science,77.6,6.8,69.9,39.5,48.5,Developing
+S0334,Data Analytics,86.9,18.7,71.1,40.0,63.2,Proficient
+S0335,Computer Science,60.7,1.2,65.3,58.6,35.0,At risk
+S0336,Data Analytics,67.8,13.3,76.3,38.6,49.3,Developing
+S0337,Data Analytics,84.6,11.3,52.1,95.7,52.3,Developing
+S0338,Computer Science,70.8,9.2,66.5,59.9,51.3,Developing
+S0339,Mathematics,86.2,6.7,52.3,78.8,48.1,Developing
+S0340,Data Analytics,83.3,12.6,56.5,79.2,59.3,Developing
+S0341,Computer Science,71.5,15.0,69.5,79.4,65.3,Proficient
+S0342,Data Analytics,90.0,10.1,55.3,92.5,73.0,Proficient
+S0343,Computer Science,65.2,3.1,100.0,84.0,58.5,Developing
+S0344,Business,91.8,14.9,79.1,81.0,79.3,Proficient
+S0345,Data Analytics,82.5,6.0,78.0,51.0,64.9,Proficient
+S0346,Computer Science,60.4,12.6,74.1,61.6,65.7,Proficient
+S0347,Mathematics,100.0,10.8,79.0,62.8,62.2,Proficient
+S0348,Business,96.0,14.7,55.9,87.1,84.5,Excellent
+S0349,Mathematics,84.1,13.1,48.3,91.7,69.3,Proficient
+S0350,Data Analytics,94.4,13.3,72.6,58.9,76.1,Proficient
+S0351,Computer Science,91.8,19.0,82.9,71.4,80.0,Excellent
+S0352,Data Analytics,72.5,12.9,70.3,50.9,56.6,Developing
+S0353,Business,84.6,21.4,74.3,77.2,49.5,Developing
+S0354,Mathematics,100.0,7.1,76.3,40.2,51.5,Developing
+S0355,Data Analytics,100.0,6.7,75.5,59.6,54.6,Developing
+S0356,Computer Science,81.1,15.7,65.6,77.5,58.4,Developing
+S0357,Computer Science,78.5,17.0,92.6,71.3,98.5,Excellent
+S0358,Data Analytics,67.7,20.5,48.9,53.4,44.4,Developing
+S0359,Computer Science,75.0,13.8,64.2,67.5,59.0,Developing
+S0360,Computer Science,91.5,12.1,63.6,63.4,56.2,Developing
+S0361,Data Analytics,82.5,16.5,73.7,55.7,55.6,Developing
+S0362,Data Analytics,81.0,11.5,58.7,90.0,61.7,Proficient
+S0363,Computer Science,71.3,18.4,61.8,67.7,83.6,Excellent
+S0364,Computer Science,79.0,10.1,61.8,73.4,68.3,Proficient
+S0365,Computer Science,79.7,12.0,58.6,65.5,59.2,Developing
+S0366,Data Analytics,98.6,11.7,71.7,65.4,65.9,Proficient
+S0367,Computer Science,88.6,20.1,92.9,68.9,79.4,Proficient
+S0368,Data Analytics,100.0,13.4,88.7,73.3,72.2,Proficient
+S0369,Computer Science,90.1,18.0,61.1,60.4,68.5,Proficient
+S0370,Data Analytics,85.6,8.7,82.3,68.2,72.4,Proficient
+S0371,Data Analytics,100.0,16.2,72.9,76.9,80.2,Excellent
+S0372,Computer Science,92.4,8.1,67.7,79.8,56.1,Developing
+S0373,Data Analytics,86.1,13.7,69.7,61.6,68.1,Proficient
+S0374,Mathematics,70.3,9.1,100.0,74.8,48.0,Developing
+S0375,Computer Science,78.4,6.3,77.4,69.5,64.3,Proficient
+S0376,Computer Science,75.4,8.5,93.6,65.6,54.4,Developing
+S0377,Computer Science,87.6,14.2,95.2,35.0,62.7,Proficient
+S0378,Data Analytics,100.0,18.3,57.3,43.5,55.7,Developing
+S0379,Data Analytics,99.3,12.1,64.8,62.1,61.3,Proficient
+S0380,Computer Science,77.3,15.1,100.0,88.0,80.2,Excellent
+S0381,Data Analytics,100.0,8.4,62.5,59.1,44.8,Developing
+S0382,Business,78.9,11.6,52.9,61.3,71.6,Proficient
+S0383,Computer Science,90.3,6.5,58.2,81.6,65.8,Proficient
+S0384,Mathematics,83.0,12.3,68.4,77.8,64.7,Proficient
+S0385,Computer Science,67.8,11.0,94.9,71.1,66.6,Proficient
+S0386,Mathematics,77.2,3.9,91.1,38.4,63.1,Proficient
+S0387,Data Analytics,74.2,0.2,40.9,32.7,43.6,Developing
+S0388,Business,77.2,7.9,82.4,47.6,53.0,Developing
+S0389,Computer Science,76.5,14.5,96.3,75.1,58.4,Developing
+S0390,Data Analytics,76.5,9.1,76.4,80.6,51.2,Developing
+S0391,Data Analytics,56.1,14.0,78.4,75.9,55.8,Developing
+S0392,Business,79.9,14.5,53.4,91.4,66.9,Proficient
+S0393,Data Analytics,64.2,15.3,75.3,37.5,42.8,Developing
+S0394,Computer Science,88.1,16.7,53.4,52.3,64.4,Proficient
+S0395,Computer Science,71.4,8.7,48.0,62.7,54.9,Developing
+S0396,Data Analytics,66.9,19.0,56.5,64.7,76.5,Proficient
+S0397,Data Analytics,78.1,17.6,81.2,92.8,66.4,Proficient
+S0398,Business,77.7,10.8,81.6,63.6,51.3,Developing
+S0399,Mathematics,100.0,17.2,99.7,61.8,68.4,Proficient
+S0400,Mathematics,87.6,5.6,71.3,21.4,48.9,Developing
+S0401,Computer Science,86.9,16.5,86.9,74.6,63.4,Proficient
+S0402,Computer Science,72.2,16.2,75.9,54.5,58.8,Developing
+S0403,Data Analytics,89.6,10.8,72.2,55.1,63.5,Proficient
+S0404,Data Analytics,83.5,14.1,67.1,81.7,58.8,Developing
+S0405,Computer Science,86.3,12.2,75.2,85.0,79.3,Proficient
+S0406,Business,99.7,10.0,87.7,87.1,69.4,Proficient
+S0407,Computer Science,83.8,15.1,67.7,48.5,62.9,Proficient
+S0408,Mathematics,91.5,17.1,50.9,77.1,61.3,Proficient
+S0409,Computer Science,98.1,13.0,74.0,79.7,57.2,Developing
+S0410,Data Analytics,75.9,14.4,90.5,51.8,61.4,Proficient
+S0411,Data Analytics,91.3,3.8,86.5,78.1,66.7,Proficient
+S0412,Mathematics,79.8,16.1,68.4,68.2,54.9,Developing
+S0413,Computer Science,94.8,13.6,65.3,89.7,65.5,Proficient
+S0414,Computer Science,75.9,10.4,58.8,83.5,72.3,Proficient
+S0415,Data Analytics,83.6,0.0,69.6,82.4,55.8,Developing
+S0416,Computer Science,78.4,14.8,100.0,60.9,59.1,Developing
+S0417,Business,87.4,8.6,73.3,81.0,52.4,Developing
+S0418,Data Analytics,83.3,14.5,52.9,48.4,61.2,Proficient
+S0419,Mathematics,75.5,17.4,69.2,65.0,71.4,Proficient
+S0420,Data Analytics,92.5,7.3,78.2,74.5,70.4,Proficient
+S0421,Data Analytics,76.4,10.0,40.0,82.1,70.7,Proficient
+S0422,Mathematics,70.7,14.2,89.7,64.3,67.7,Proficient
+S0423,Computer Science,75.4,11.0,95.5,90.5,79.2,Proficient
+S0424,Computer Science,71.5,8.6,43.8,81.0,57.4,Developing
+S0425,Computer Science,80.1,14.4,65.4,70.5,74.0,Proficient
+S0426,Mathematics,91.8,14.9,85.3,69.8,64.6,Proficient
+S0427,Mathematics,71.4,7.7,58.9,30.7,42.4,Developing
+S0428,Computer Science,89.2,14.1,99.9,75.3,79.3,Proficient
+S0429,Mathematics,100.0,8.8,78.4,54.4,63.9,Proficient
+S0430,Data Analytics,78.8,17.4,55.6,62.4,63.0,Proficient
+S0431,Computer Science,78.5,14.6,58.2,71.0,78.8,Proficient
+S0432,Data Analytics,79.0,6.1,63.8,93.7,52.6,Developing
+S0433,Mathematics,72.5,19.6,80.8,82.3,58.5,Developing
+S0434,Mathematics,75.7,11.1,62.3,73.6,55.2,Developing
+S0435,Business,98.2,15.7,43.9,80.5,48.9,Developing
+S0436,Data Analytics,72.0,3.5,96.4,72.7,65.0,Proficient
+S0437,Computer Science,83.4,11.3,70.6,70.6,55.6,Developing
+S0438,Business,59.3,10.4,71.1,70.1,55.9,Developing
+S0439,Computer Science,95.3,11.4,71.5,67.1,52.6,Developing
+S0440,Computer Science,100.0,14.1,91.9,65.4,83.7,Excellent
+S0441,Computer Science,59.8,21.8,75.8,54.5,54.1,Developing
+S0442,Computer Science,80.7,10.9,77.6,87.4,70.3,Proficient
+S0443,Computer Science,95.6,8.5,76.4,93.7,84.3,Excellent
+S0444,Computer Science,93.8,7.2,80.5,53.1,66.9,Proficient
+S0445,Data Analytics,79.2,19.9,63.9,77.1,77.2,Proficient
+S0446,Data Analytics,71.7,19.7,60.9,84.7,63.9,Proficient
+S0447,Data Analytics,71.7,0.8,58.0,72.3,34.3,At risk
+S0448,Data Analytics,80.8,4.9,93.7,81.8,76.5,Proficient
+S0449,Computer Science,75.4,12.8,80.6,71.3,58.2,Developing
+S0450,Computer Science,88.7,10.2,69.3,55.1,60.4,Proficient
+S0451,Data Analytics,100.0,22.8,65.5,93.4,80.0,Excellent
+S0452,Data Analytics,100.0,16.8,65.1,64.3,70.2,Proficient
+S0453,Mathematics,67.7,26.9,82.4,52.1,80.9,Excellent
+S0454,Business,97.6,15.1,96.7,90.7,99.7,Excellent
+S0455,Data Analytics,60.4,14.1,65.7,39.6,43.0,Developing
+S0456,Data Analytics,85.0,4.7,56.9,56.3,43.8,Developing
+S0457,Computer Science,76.9,6.4,79.4,63.2,80.3,Excellent
+S0458,Data Analytics,83.4,1.9,70.0,59.9,40.9,Developing
+S0459,Data Analytics,89.8,11.4,65.4,64.6,68.4,Proficient
+S0460,Computer Science,93.7,12.9,72.0,100.0,74.1,Proficient
+S0461,Data Analytics,100.0,10.2,75.0,44.6,71.5,Proficient
+S0462,Data Analytics,86.6,11.8,71.1,78.8,64.5,Proficient
+S0463,Computer Science,80.1,10.5,59.1,96.8,61.7,Proficient
+S0464,Computer Science,93.5,13.4,83.0,65.3,69.0,Proficient
+S0465,Computer Science,70.8,14.1,73.0,51.3,58.6,Developing
+S0466,Computer Science,87.1,14.0,51.3,94.1,71.5,Proficient
+S0467,Business,85.7,12.5,71.9,100.0,60.4,Proficient
+S0468,Computer Science,60.6,7.5,72.2,52.8,50.9,Developing
+S0469,Data Analytics,85.2,3.0,68.6,77.6,60.4,Proficient
+S0470,Computer Science,77.6,18.1,70.7,43.6,46.2,Developing
+S0471,Computer Science,79.6,22.0,56.0,63.2,56.8,Developing
+S0472,Computer Science,83.6,10.7,97.6,100.0,100.0,Excellent
+S0473,Computer Science,81.1,10.4,68.6,80.1,73.3,Proficient
+S0474,Computer Science,88.8,18.4,75.6,82.2,72.9,Proficient
+S0475,Computer Science,87.1,18.3,81.8,65.0,57.1,Developing
+S0476,Data Analytics,90.9,6.2,71.8,72.0,47.4,Developing
+S0477,Business,80.3,13.5,76.1,85.3,69.9,Proficient
+S0478,Data Analytics,79.0,15.1,33.2,45.5,38.8,At risk
+S0479,Mathematics,75.9,10.4,76.3,78.1,80.1,Excellent
+S0480,Business,73.9,8.3,75.9,67.1,68.7,Proficient
+S0481,Computer Science,58.4,9.4,78.2,72.8,50.3,Developing
+S0482,Mathematics,91.9,16.1,66.9,91.8,73.4,Proficient
+S0483,Computer Science,59.5,16.4,54.6,45.4,63.7,Proficient
+S0484,Computer Science,90.5,17.4,76.5,30.9,49.0,Developing
+S0485,Data Analytics,74.3,4.7,58.4,69.5,62.7,Proficient
+S0486,Data Analytics,85.0,7.7,77.6,70.1,59.3,Developing
+S0487,Computer Science,93.3,17.2,75.0,82.8,64.4,Proficient
+S0488,Data Analytics,100.0,12.7,80.3,73.1,87.5,Excellent
+S0489,Mathematics,79.4,16.6,65.9,74.5,74.2,Proficient
+S0490,Computer Science,85.3,0.5,68.2,85.6,60.8,Proficient
+S0491,Data Analytics,69.6,0.5,78.1,93.0,61.8,Proficient
+S0492,Data Analytics,78.7,7.2,51.9,57.0,59.7,Developing
+S0493,Computer Science,83.7,11.5,68.1,79.9,56.5,Developing
+S0494,Computer Science,58.5,11.4,74.9,30.2,53.4,Developing
+S0495,Mathematics,83.6,7.7,81.8,53.2,59.8,Developing
+S0496,Data Analytics,99.0,16.3,46.9,49.4,64.0,Proficient
+S0497,Data Analytics,80.8,9.3,75.2,54.9,60.2,Proficient
+S0498,Computer Science,74.7,3.9,69.5,76.8,76.5,Proficient
+S0499,Data Analytics,97.8,18.6,62.3,62.7,83.4,Excellent
+S0500,Computer Science,96.5,4.6,88.9,81.8,72.7,Proficient
+S0501,Computer Science,79.0,12.6,54.9,74.9,67.1,Proficient
+S0502,Data Analytics,50.4,16.0,77.2,62.7,58.3,Developing
+S0503,Data Analytics,100.0,14.0,82.0,79.8,67.2,Proficient
+S0504,Data Analytics,93.0,17.4,80.0,53.9,63.5,Proficient
+S0505,Computer Science,83.7,9.9,75.6,50.2,58.1,Developing
+S0506,Mathematics,85.7,17.9,48.8,70.2,58.1,Developing
+S0507,Computer Science,69.0,14.9,54.1,52.1,55.2,Developing
+S0508,Computer Science,77.6,12.1,83.2,60.4,76.4,Proficient
+S0509,Data Analytics,68.2,25.4,100.0,64.1,80.3,Excellent
+S0510,Computer Science,80.4,13.5,83.5,43.8,56.6,Developing
+S0511,Computer Science,90.1,12.8,59.5,89.1,79.5,Proficient
+S0512,Business,60.7,10.0,61.4,27.9,27.7,At risk
+S0513,Business,56.4,20.9,81.0,37.4,51.9,Developing
+S0514,Computer Science,100.0,8.3,90.9,72.4,76.8,Proficient
+S0515,Computer Science,72.4,13.7,74.6,77.1,61.0,Proficient
+S0516,Business,92.6,24.3,91.2,59.4,83.1,Excellent
+S0517,Data Analytics,70.3,15.6,72.0,41.2,78.6,Proficient
+S0518,Mathematics,75.5,5.9,62.2,46.4,50.3,Developing
+S0519,Computer Science,93.9,21.3,72.9,67.5,71.1,Proficient
+S0520,Computer Science,94.9,8.7,58.5,50.5,46.5,Developing
+S0521,Computer Science,82.4,8.5,82.0,37.1,43.8,Developing
+S0522,Computer Science,78.0,18.4,38.3,64.6,60.8,Proficient
+S0523,Data Analytics,91.7,19.4,82.0,99.9,82.4,Excellent
+S0524,Data Analytics,53.1,11.5,63.9,41.5,47.6,Developing
+S0525,Computer Science,79.1,21.3,83.8,60.4,58.4,Developing
+S0526,Computer Science,97.6,10.0,67.9,79.6,77.4,Proficient
+S0527,Data Analytics,86.3,16.5,96.2,60.7,77.3,Proficient
+S0528,Data Analytics,93.7,11.3,69.4,42.6,54.8,Developing
+S0529,Data Analytics,59.7,22.2,76.0,58.2,60.9,Proficient
+S0530,Data Analytics,84.1,13.0,52.2,71.7,71.6,Proficient
+S0531,Computer Science,87.8,10.0,84.6,68.7,74.0,Proficient
+S0532,Business,75.7,10.0,100.0,54.7,75.4,Proficient
+S0533,Data Analytics,80.7,16.3,86.5,45.9,72.3,Proficient
+S0534,Computer Science,100.0,13.9,98.6,65.6,69.0,Proficient
+S0535,Computer Science,91.7,6.9,90.4,54.8,72.5,Proficient
+S0536,Computer Science,73.0,10.5,60.5,77.2,61.8,Proficient
+S0537,Computer Science,65.8,11.6,94.3,55.5,60.3,Proficient
+S0538,Data Analytics,47.5,11.4,74.2,91.7,57.6,Developing
+S0539,Mathematics,85.4,4.3,90.3,77.7,73.8,Proficient
+S0540,Business,71.9,17.9,83.5,57.5,69.2,Proficient
+S0541,Mathematics,74.3,10.7,70.8,55.9,66.2,Proficient
+S0542,Data Analytics,86.8,10.3,36.0,54.6,41.0,Developing
+S0543,Data Analytics,88.7,10.8,83.5,49.0,80.6,Excellent
+S0544,Computer Science,65.4,11.5,93.3,82.8,45.3,Developing
+S0545,Business,74.6,15.8,91.3,57.0,79.7,Proficient
+S0546,Computer Science,96.1,11.4,58.6,63.8,68.2,Proficient
+S0547,Data Analytics,70.5,8.3,85.3,66.0,53.1,Developing
+S0548,Data Analytics,67.1,6.4,47.8,74.0,58.8,Developing
+S0549,Data Analytics,92.5,11.8,77.9,44.5,57.5,Developing
+S0550,Data Analytics,67.0,14.0,62.1,34.0,41.7,Developing
+S0551,Computer Science,66.9,15.9,63.8,61.2,64.8,Proficient
+S0552,Data Analytics,89.4,14.7,100.0,53.7,63.2,Proficient
+S0553,Computer Science,91.2,20.7,87.8,56.6,59.3,Developing
+S0554,Business,86.3,12.9,64.3,37.7,58.3,Developing
+S0555,Computer Science,75.5,13.1,90.8,60.1,58.4,Developing
+S0556,Computer Science,89.8,13.7,100.0,69.4,67.9,Proficient
+S0557,Computer Science,77.4,4.7,73.3,59.8,34.7,At risk
+S0558,Data Analytics,77.6,19.9,54.2,32.5,47.9,Developing
+S0559,Computer Science,84.2,6.4,50.5,63.1,61.3,Proficient
+S0560,Computer Science,97.4,19.6,49.9,62.7,55.1,Developing
+S0561,Data Analytics,83.5,19.0,84.3,68.1,70.2,Proficient
+S0562,Computer Science,85.9,8.9,66.8,100.0,81.0,Excellent
+S0563,Business,100.0,18.3,81.7,65.5,75.5,Proficient
+S0564,Data Analytics,78.3,20.0,58.7,82.0,69.0,Proficient
+S0565,Mathematics,81.5,25.8,59.6,62.5,61.6,Proficient
+S0566,Business,55.4,9.4,52.8,65.7,51.4,Developing
+S0567,Computer Science,82.1,8.3,64.8,60.7,56.6,Developing
+S0568,Business,70.6,13.2,70.2,67.6,73.9,Proficient
+S0569,Data Analytics,97.7,7.9,42.3,71.3,60.5,Proficient
+S0570,Computer Science,76.9,19.0,65.0,59.5,69.6,Proficient
+S0571,Data Analytics,90.7,18.5,72.9,61.5,62.7,Proficient
+S0572,Data Analytics,94.5,6.0,82.4,70.5,74.8,Proficient
+S0573,Mathematics,90.3,7.9,80.6,90.1,68.9,Proficient
+S0574,Computer Science,87.0,25.1,83.2,78.6,82.5,Excellent
+S0575,Computer Science,72.4,11.3,61.6,74.3,65.7,Proficient
+S0576,Computer Science,78.1,13.2,59.5,45.1,47.3,Developing
+S0577,Mathematics,100.0,11.3,89.0,72.4,77.0,Proficient
+S0578,Computer Science,78.3,7.9,86.1,61.9,67.9,Proficient
+S0579,Data Analytics,76.8,10.2,85.2,77.8,50.4,Developing
+S0580,Business,63.2,7.4,28.3,100.0,53.8,Developing
+S0581,Computer Science,99.2,2.6,72.5,81.3,61.9,Proficient
+S0582,Computer Science,100.0,14.9,68.9,92.3,85.6,Excellent
+S0583,Computer Science,70.8,9.8,86.5,100.0,67.5,Proficient
+S0584,Data Analytics,93.1,14.3,70.4,49.9,59.4,Developing
+S0585,Computer Science,73.4,7.5,77.6,71.1,63.3,Proficient
+S0586,Data Analytics,67.7,10.6,95.6,78.7,70.1,Proficient
+S0587,Business,68.4,15.2,63.6,70.5,50.9,Developing
+S0588,Data Analytics,80.4,18.4,77.9,92.2,90.9,Excellent
+S0589,Mathematics,73.7,10.2,67.9,60.9,74.6,Proficient
+S0590,Business,85.8,19.3,80.9,62.5,65.8,Proficient
+S0591,Mathematics,84.4,9.7,74.8,56.7,63.7,Proficient
+S0592,Data Analytics,80.4,19.3,66.4,86.2,67.0,Proficient
+S0593,Data Analytics,82.1,10.2,67.8,64.9,59.3,Developing
+S0594,Computer Science,89.5,16.5,48.8,68.4,60.3,Proficient
+S0595,Data Analytics,79.2,7.5,100.0,69.9,68.4,Proficient
+S0596,Data Analytics,79.1,11.2,98.0,76.0,77.5,Proficient
+S0597,Data Analytics,94.6,16.3,84.8,45.0,71.8,Proficient
+S0598,Data Analytics,67.0,13.3,82.6,76.9,67.2,Proficient
+S0599,Computer Science,96.3,18.1,47.3,65.1,60.3,Proficient
+S0600,Data Analytics,98.9,10.9,60.2,42.5,53.7,Developing
+S0601,Business,92.4,20.3,76.4,70.7,57.0,Developing
+S0602,Computer Science,88.8,9.5,81.7,62.3,71.4,Proficient
+S0603,Computer Science,100.0,2.4,65.0,87.7,68.7,Proficient
+S0604,Mathematics,80.8,16.7,82.7,50.7,57.9,Developing
+S0605,Computer Science,87.5,16.0,53.3,67.6,58.4,Developing
+S0606,Computer Science,88.2,17.3,64.7,77.8,40.2,Developing
+S0607,Data Analytics,68.8,14.2,68.2,67.5,53.0,Developing
+S0608,Data Analytics,91.7,22.1,95.0,32.5,76.7,Proficient
+S0609,Computer Science,78.1,10.4,81.9,46.9,46.1,Developing
+S0610,Computer Science,86.7,13.8,49.1,49.6,71.3,Proficient
+S0611,Computer Science,100.0,7.6,100.0,41.9,60.8,Proficient
+S0612,Business,91.3,13.6,59.2,60.1,58.8,Developing
+S0613,Mathematics,65.7,2.4,57.0,34.7,38.0,At risk
+S0614,Data Analytics,77.9,19.1,41.8,83.9,51.8,Developing
+S0615,Data Analytics,88.2,12.2,67.3,48.0,48.4,Developing
+S0616,Data Analytics,92.0,0.1,77.4,73.1,51.4,Developing
+S0617,Computer Science,66.9,2.8,53.4,67.2,44.6,Developing
+S0618,Data Analytics,78.8,4.7,61.8,100.0,56.3,Developing
+S0619,Business,81.9,17.3,62.6,81.7,70.8,Proficient
+S0620,Computer Science,75.1,5.8,71.2,98.6,78.1,Proficient
+S0621,Data Analytics,87.7,3.8,61.5,69.7,72.7,Proficient
+S0622,Computer Science,100.0,7.9,49.8,66.6,52.2,Developing
+S0623,Computer Science,80.0,8.7,84.7,51.3,54.7,Developing
+S0624,Data Analytics,91.5,8.8,86.5,89.0,76.1,Proficient
+S0625,Data Analytics,78.0,8.1,77.0,83.6,62.3,Proficient
+S0626,Computer Science,90.9,4.5,71.2,50.8,51.3,Developing
+S0627,Computer Science,76.7,11.6,21.6,99.7,54.5,Developing
+S0628,Computer Science,83.2,21.3,70.3,43.4,70.7,Proficient
+S0629,Mathematics,83.3,12.0,81.4,83.2,60.7,Proficient
+S0630,Computer Science,82.7,15.0,97.2,65.7,77.4,Proficient
+S0631,Computer Science,97.0,13.2,47.6,61.6,57.7,Developing
+S0632,Business,100.0,15.9,60.3,43.1,62.7,Proficient
+S0633,Data Analytics,90.2,14.2,67.9,52.8,63.2,Proficient
+S0634,Mathematics,87.6,13.0,87.8,89.2,69.2,Proficient
+S0635,Business,70.4,12.7,96.5,63.7,58.0,Developing
+S0636,Mathematics,76.1,17.8,84.4,38.0,46.8,Developing
+S0637,Data Analytics,87.3,9.1,56.5,64.8,57.4,Developing
+S0638,Mathematics,79.2,0.0,48.1,84.3,56.2,Developing
+S0639,Business,85.9,7.1,77.5,67.5,71.8,Proficient
+S0640,Data Analytics,82.7,10.9,74.9,34.6,65.9,Proficient
+S0641,Mathematics,89.5,5.0,84.0,74.0,74.1,Proficient
+S0642,Data Analytics,90.5,14.5,96.3,67.4,78.7,Proficient
+S0643,Mathematics,82.3,18.0,70.4,57.3,58.7,Developing
+S0644,Computer Science,89.2,3.8,55.6,94.7,56.3,Developing
+S0645,Business,73.3,6.9,72.8,100.0,74.6,Proficient
+S0646,Data Analytics,92.2,10.2,75.7,42.5,57.1,Developing
+S0647,Data Analytics,72.1,0.2,54.9,66.5,47.9,Developing
+S0648,Computer Science,100.0,12.0,67.9,66.6,57.5,Developing
+S0649,Data Analytics,96.6,11.7,50.2,74.4,76.2,Proficient
+S0650,Mathematics,81.4,11.6,56.0,75.4,57.5,Developing
+S0651,Business,89.3,14.6,100.0,80.3,68.6,Proficient
+S0652,Business,72.7,19.0,72.0,54.6,57.1,Developing
+S0653,Data Analytics,75.1,10.2,96.3,74.4,56.0,Developing
+S0654,Computer Science,86.9,11.8,53.0,37.3,33.6,At risk
+S0655,Mathematics,72.5,3.9,69.3,64.3,56.4,Developing
+S0656,Business,89.4,13.8,63.7,33.0,39.2,At risk
+S0657,Mathematics,65.8,7.4,82.3,61.6,57.9,Developing
+S0658,Mathematics,83.1,13.2,100.0,52.6,54.1,Developing
+S0659,Computer Science,89.2,15.0,71.3,100.0,82.1,Excellent
+S0660,Data Analytics,93.1,9.0,55.7,67.5,42.2,Developing
+S0661,Mathematics,79.5,16.8,55.5,59.7,80.5,Excellent
+S0662,Computer Science,83.2,7.6,92.7,80.3,74.6,Proficient
+S0663,Computer Science,80.9,12.5,80.5,40.1,65.3,Proficient
+S0664,Computer Science,74.3,15.8,53.7,89.4,53.4,Developing
+S0665,Mathematics,68.0,7.2,70.5,66.4,44.4,Developing
+S0666,Computer Science,61.8,17.6,73.4,52.1,52.4,Developing
+S0667,Computer Science,78.1,11.8,37.5,43.5,51.8,Developing
+S0668,Mathematics,90.5,18.0,43.4,69.0,68.4,Proficient
+S0669,Computer Science,75.0,10.4,62.1,72.8,78.4,Proficient
+S0670,Computer Science,78.0,13.5,67.1,53.3,57.6,Developing
+S0671,Computer Science,70.7,12.9,92.8,67.6,79.4,Proficient
+S0672,Computer Science,93.2,8.7,61.5,75.3,51.2,Developing
+S0673,Business,86.7,7.2,81.9,89.5,76.9,Proficient
+S0674,Computer Science,48.9,8.2,68.1,67.5,65.4,Proficient
+S0675,Computer Science,95.9,22.2,78.8,53.3,67.4,Proficient
+S0676,Business,94.7,10.1,65.9,58.4,64.6,Proficient
+S0677,Computer Science,82.7,8.0,79.7,90.1,82.3,Excellent
+S0678,Data Analytics,68.7,9.1,61.8,73.4,43.4,Developing
+S0679,Computer Science,80.8,6.8,72.6,66.8,60.4,Proficient
+S0680,Data Analytics,71.4,2.9,45.5,39.6,42.4,Developing
+S0681,Computer Science,53.3,19.4,82.5,51.6,57.7,Developing
+S0682,Data Analytics,63.9,20.6,76.7,94.5,68.2,Proficient
+S0683,Business,86.7,15.9,52.0,68.5,57.9,Developing
+S0684,Mathematics,93.8,10.9,67.1,65.6,63.5,Proficient
+S0685,Mathematics,85.2,9.0,76.4,100.0,76.3,Proficient
+S0686,Computer Science,65.8,16.6,62.5,54.7,37.6,At risk
+S0687,Computer Science,88.4,11.0,68.5,51.4,63.0,Proficient
+S0688,Computer Science,63.7,19.0,38.1,76.9,52.9,Developing
+S0689,Business,77.6,14.9,83.7,77.3,70.6,Proficient
+S0690,Data Analytics,83.0,13.4,70.6,62.3,45.0,Developing
+S0691,Computer Science,86.8,16.5,52.7,96.0,90.4,Excellent
+S0692,Mathematics,85.5,16.1,52.5,94.1,64.4,Proficient
+S0693,Business,69.1,13.3,53.9,68.0,58.1,Developing
+S0694,Data Analytics,62.8,9.1,66.5,91.3,50.2,Developing
+S0695,Data Analytics,82.4,7.5,75.6,79.9,72.8,Proficient
+S0696,Computer Science,71.2,17.4,69.0,75.1,71.8,Proficient
+S0697,Computer Science,100.0,5.6,63.6,69.8,54.5,Developing
+S0698,Data Analytics,89.2,17.8,100.0,54.4,64.3,Proficient
+S0699,Data Analytics,78.4,11.9,62.6,55.9,47.0,Developing
+S0700,Computer Science,99.4,15.9,59.6,49.3,61.3,Proficient
+S0701,Mathematics,86.5,9.0,65.7,53.2,44.1,Developing
+S0702,Computer Science,97.7,13.4,62.0,87.5,74.4,Proficient
+S0703,Computer Science,100.0,6.3,88.0,100.0,79.3,Proficient
+S0704,Computer Science,96.9,4.8,88.2,63.9,73.3,Proficient
+S0705,Mathematics,86.0,12.3,71.1,43.3,51.8,Developing
+S0706,Business,82.3,6.0,40.8,100.0,46.6,Developing
+S0707,Data Analytics,92.2,19.4,67.5,45.2,58.6,Developing
+S0708,Mathematics,63.1,15.8,65.8,55.3,48.2,Developing
+S0709,Data Analytics,73.4,7.6,80.4,80.6,58.2,Developing
+S0710,Computer Science,100.0,15.3,77.5,50.2,70.3,Proficient
+S0711,Computer Science,71.5,14.7,68.4,66.2,48.5,Developing
+S0712,Business,91.4,14.3,70.6,59.4,74.7,Proficient
+S0713,Business,61.5,16.4,66.9,69.7,59.5,Developing
+S0714,Mathematics,76.4,11.1,79.7,77.6,69.9,Proficient
+S0715,Computer Science,85.8,5.4,93.8,79.6,59.5,Developing
+S0716,Data Analytics,76.0,13.9,89.3,83.3,85.6,Excellent
+S0717,Data Analytics,86.9,18.4,73.1,76.8,50.1,Developing
+S0718,Computer Science,66.8,12.1,82.1,16.4,42.5,Developing
+S0719,Computer Science,79.4,12.6,65.8,70.5,67.9,Proficient
+S0720,Business,96.7,10.4,69.0,56.4,68.8,Proficient
+S0721,Business,89.3,16.1,71.7,38.2,40.8,Developing
+S0722,Mathematics,76.7,3.7,98.2,79.0,51.0,Developing
+S0723,Computer Science,87.7,12.1,70.5,66.7,72.5,Proficient
+S0724,Data Analytics,82.2,10.8,71.7,57.4,70.5,Proficient
+S0725,Data Analytics,77.6,12.5,76.8,75.9,68.1,Proficient
+S0726,Mathematics,78.8,10.2,77.7,83.6,73.9,Proficient
+S0727,Mathematics,73.2,10.5,85.1,49.3,65.2,Proficient
+S0728,Data Analytics,87.6,3.0,67.0,53.6,64.1,Proficient
+S0729,Mathematics,91.6,9.1,90.9,53.7,62.9,Proficient
+S0730,Data Analytics,63.8,10.4,90.9,75.3,70.4,Proficient
+S0731,Data Analytics,100.0,11.2,57.8,77.1,61.1,Proficient
+S0732,Computer Science,79.0,19.0,68.3,75.3,48.0,Developing
+S0733,Mathematics,72.5,15.2,97.7,72.4,74.0,Proficient
+S0734,Data Analytics,77.4,18.0,100.0,66.1,63.2,Proficient
+S0735,Computer Science,76.6,13.8,73.8,68.4,56.3,Developing
+S0736,Computer Science,85.3,16.3,75.6,76.0,65.6,Proficient
+S0737,Data Analytics,79.0,19.0,76.9,69.7,56.1,Developing
+S0738,Computer Science,66.8,12.6,68.7,57.3,55.6,Developing
+S0739,Computer Science,62.0,13.0,46.4,90.8,56.1,Developing
+S0740,Mathematics,87.0,11.0,91.8,43.2,57.3,Developing
+S0741,Data Analytics,77.9,13.1,59.5,56.9,58.0,Developing
+S0742,Data Analytics,71.1,19.1,38.1,51.7,63.1,Proficient
+S0743,Business,75.6,7.2,44.5,81.3,39.6,At risk
+S0744,Computer Science,86.3,19.3,48.6,83.1,63.5,Proficient
+S0745,Computer Science,99.7,20.9,80.5,71.0,74.7,Proficient
+S0746,Computer Science,73.0,14.9,67.4,55.2,60.6,Proficient
+S0747,Computer Science,81.6,13.5,76.3,91.5,75.4,Proficient
+S0748,Computer Science,89.1,18.0,75.4,69.2,60.5,Proficient
+S0749,Mathematics,90.0,14.7,55.3,80.2,74.6,Proficient
+S0750,Mathematics,85.6,19.3,50.0,83.8,65.3,Proficient
+S0751,Computer Science,63.2,12.5,79.5,59.6,69.6,Proficient
+S0752,Data Analytics,73.6,3.2,75.6,58.5,50.4,Developing
+S0753,Mathematics,69.1,11.3,74.4,94.0,71.4,Proficient
+S0754,Mathematics,80.9,11.9,39.6,55.1,60.1,Proficient
+S0755,Mathematics,79.5,10.8,74.7,85.0,64.1,Proficient
+S0756,Data Analytics,75.9,19.5,91.4,86.7,78.8,Proficient
+S0757,Mathematics,85.4,12.9,84.9,74.3,70.3,Proficient
+S0758,Computer Science,84.7,19.5,62.3,52.8,51.5,Developing
+S0759,Data Analytics,88.0,14.4,58.5,53.5,47.3,Developing
+S0760,Computer Science,87.1,7.7,81.8,50.9,59.1,Developing
+S0761,Mathematics,74.3,7.9,60.5,78.9,53.4,Developing
+S0762,Business,93.6,20.4,54.8,59.8,63.9,Proficient
+S0763,Mathematics,75.6,4.1,62.2,82.1,43.8,Developing
+S0764,Computer Science,71.0,11.7,65.6,68.5,76.8,Proficient
+S0765,Data Analytics,77.6,10.7,77.6,78.3,61.6,Proficient
+S0766,Mathematics,77.6,0.9,91.2,75.2,57.1,Developing
+S0767,Computer Science,76.9,15.6,86.4,88.4,56.5,Developing
+S0768,Computer Science,77.7,7.1,66.8,76.4,63.4,Proficient
+S0769,Computer Science,97.5,6.6,100.0,69.2,45.4,Developing
+S0770,Computer Science,79.1,14.4,80.2,74.8,72.4,Proficient
+S0771,Computer Science,89.6,14.1,56.6,95.6,73.0,Proficient
+S0772,Mathematics,97.3,11.8,86.7,70.5,87.8,Excellent
+S0773,Data Analytics,79.9,12.7,62.2,53.7,69.0,Proficient
+S0774,Business,71.2,16.1,56.2,77.9,64.9,Proficient
+S0775,Data Analytics,64.1,11.1,78.6,81.4,61.0,Proficient
+S0776,Computer Science,72.9,11.0,70.3,72.4,57.5,Developing
+S0777,Mathematics,100.0,13.2,53.8,57.8,63.7,Proficient
+S0778,Mathematics,69.8,16.0,53.8,72.5,59.8,Developing
+S0779,Business,76.1,14.4,76.5,74.6,67.7,Proficient
+S0780,Computer Science,93.9,8.6,74.2,80.2,53.8,Developing
+S0781,Mathematics,83.5,15.9,85.9,93.8,69.9,Proficient
+S0782,Computer Science,58.8,12.9,84.7,77.4,59.8,Developing
+S0783,Business,99.9,15.5,80.1,70.8,75.8,Proficient
+S0784,Data Analytics,92.1,1.8,72.8,53.9,46.9,Developing
+S0785,Computer Science,93.7,15.4,51.7,91.7,72.7,Proficient
+S0786,Computer Science,97.1,13.3,57.0,70.8,66.0,Proficient
+S0787,Data Analytics,100.0,7.5,34.8,45.6,45.0,Developing
+S0788,Mathematics,100.0,7.9,69.0,42.9,62.8,Proficient
+S0789,Computer Science,83.8,14.6,82.2,60.1,58.4,Developing
+S0790,Mathematics,87.8,8.7,47.6,83.6,45.0,Developing
+S0791,Mathematics,69.9,16.0,67.0,64.8,69.6,Proficient
+S0792,Computer Science,87.0,13.0,96.7,69.0,76.3,Proficient
+S0793,Data Analytics,75.8,7.5,31.1,47.2,39.6,At risk
+S0794,Business,87.2,12.5,85.8,65.6,74.9,Proficient
+S0795,Computer Science,100.0,13.4,87.3,92.7,79.0,Proficient
+S0796,Mathematics,85.9,20.6,74.8,64.2,56.1,Developing
+S0797,Data Analytics,83.8,13.8,67.9,68.9,56.9,Developing
+S0798,Computer Science,68.9,9.5,46.2,65.4,39.9,At risk
+S0799,Data Analytics,77.9,9.2,46.9,50.3,41.4,Developing
+S0800,Data Analytics,93.3,14.8,41.0,76.1,64.9,Proficient
+S0801,Mathematics,85.7,14.1,29.6,55.5,53.7,Developing
+S0802,Computer Science,82.2,9.7,84.3,73.1,52.5,Developing
+S0803,Computer Science,69.2,15.2,62.7,73.2,61.2,Proficient
+S0804,Mathematics,75.3,18.9,68.0,83.7,59.1,Developing
+S0805,Data Analytics,99.1,9.0,100.0,60.0,68.7,Proficient
+S0806,Data Analytics,98.8,8.5,65.4,79.4,60.3,Proficient
+S0807,Computer Science,80.0,19.2,82.1,85.4,72.5,Proficient
+S0808,Computer Science,88.6,7.8,92.4,38.3,65.4,Proficient
+S0809,Computer Science,81.0,14.8,51.9,87.7,63.7,Proficient
+S0810,Data Analytics,73.6,0.0,60.5,71.1,43.8,Developing
+S0811,Computer Science,88.1,13.9,77.3,47.9,69.7,Proficient
+S0812,Business,77.8,12.6,100.0,57.4,64.3,Proficient
+S0813,Business,74.8,21.8,55.7,80.3,59.8,Developing
+S0814,Data Analytics,83.8,12.5,72.9,49.7,47.2,Developing
+S0815,Business,96.2,7.3,75.3,51.8,48.9,Developing
+S0816,Computer Science,91.6,0.0,41.7,52.7,46.1,Developing
+S0817,Data Analytics,85.7,18.9,72.8,80.9,51.8,Developing
+S0818,Mathematics,88.4,4.8,89.0,82.7,58.4,Developing
+S0819,Business,60.6,18.6,70.2,70.5,71.2,Proficient
+S0820,Computer Science,84.5,6.6,54.7,51.6,32.0,At risk
+S0821,Business,67.3,2.7,81.3,76.7,50.7,Developing
+S0822,Computer Science,100.0,4.7,46.8,62.3,54.9,Developing
+S0823,Computer Science,100.0,16.9,75.0,63.2,55.9,Developing
+S0824,Computer Science,54.8,10.8,60.4,45.1,53.9,Developing
+S0825,Computer Science,80.1,11.9,71.9,57.4,57.3,Developing
+S0826,Data Analytics,93.3,15.9,68.0,68.2,65.3,Proficient
+S0827,Data Analytics,88.2,22.8,100.0,80.1,74.9,Proficient
+S0828,Computer Science,56.8,19.5,80.6,48.7,43.7,Developing
+S0829,Computer Science,84.9,9.7,76.0,87.9,68.9,Proficient
+S0830,Mathematics,80.4,17.5,76.1,98.1,69.9,Proficient
+S0831,Data Analytics,74.8,2.2,68.6,73.9,70.1,Proficient
+S0832,Computer Science,62.0,24.3,73.5,72.9,64.3,Proficient
+S0833,Mathematics,87.4,20.7,20.2,72.5,60.8,Proficient
+S0834,Data Analytics,97.9,2.2,55.6,77.2,61.0,Proficient
+S0835,Computer Science,99.9,4.8,33.3,40.3,51.0,Developing
+S0836,Data Analytics,95.1,14.3,59.7,77.5,74.1,Proficient
+S0837,Mathematics,100.0,13.0,44.6,86.6,68.6,Proficient
+S0838,Data Analytics,88.1,4.5,87.9,83.8,73.8,Proficient
+S0839,Data Analytics,79.6,5.7,69.4,53.3,46.2,Developing
+S0840,Mathematics,73.3,0.0,65.6,78.6,29.5,At risk
+S0841,Business,76.6,9.4,81.6,65.7,59.6,Developing
+S0842,Data Analytics,75.7,19.2,90.9,73.7,77.3,Proficient
+S0843,Data Analytics,72.7,16.3,78.1,73.3,63.4,Proficient
+S0844,Mathematics,84.6,17.5,86.8,68.1,65.5,Proficient
+S0845,Mathematics,87.4,11.5,95.1,68.0,64.6,Proficient
+S0846,Mathematics,78.3,15.0,65.1,52.4,49.7,Developing
+S0847,Business,74.9,7.5,76.6,63.8,78.7,Proficient
+S0848,Business,88.6,8.4,80.2,91.7,64.1,Proficient
+S0849,Data Analytics,90.5,18.0,73.4,83.1,63.1,Proficient
+S0850,Business,81.7,15.3,83.4,53.8,54.7,Developing
+S0851,Mathematics,73.7,15.0,68.5,84.6,45.6,Developing
+S0852,Computer Science,65.9,6.0,68.0,83.3,61.7,Proficient
+S0853,Computer Science,100.0,13.8,91.4,75.8,78.3,Proficient
+S0854,Data Analytics,87.4,19.5,85.8,79.9,76.7,Proficient
+S0855,Business,84.0,19.9,58.0,65.9,85.2,Excellent
+S0856,Computer Science,85.7,16.2,78.3,47.2,54.7,Developing
+S0857,Data Analytics,84.7,4.7,68.0,78.8,61.3,Proficient
+S0858,Business,99.2,10.3,60.6,75.2,82.0,Excellent
+S0859,Computer Science,67.7,7.1,70.7,87.9,78.6,Proficient
+S0860,Mathematics,88.7,8.5,70.0,29.7,53.7,Developing
+S0861,Computer Science,58.5,11.4,80.8,79.6,54.2,Developing
+S0862,Computer Science,66.7,7.0,63.9,46.1,45.5,Developing
+S0863,Business,77.3,9.5,85.6,71.1,56.2,Developing
+S0864,Data Analytics,92.9,15.0,52.3,100.0,60.4,Proficient
+S0865,Business,100.0,9.9,72.8,63.4,70.3,Proficient
+S0866,Computer Science,75.3,15.1,72.1,62.6,58.8,Developing
+S0867,Mathematics,76.9,11.1,73.1,56.8,78.5,Proficient
+S0868,Data Analytics,69.4,13.7,77.3,79.6,66.4,Proficient
+S0869,Data Analytics,98.3,9.3,72.3,66.1,57.2,Developing
+S0870,Business,81.9,12.9,94.6,88.3,86.4,Excellent
+S0871,Data Analytics,77.5,12.4,78.6,63.8,58.0,Developing
+S0872,Computer Science,69.6,13.3,83.0,65.0,54.2,Developing
+S0873,Computer Science,93.8,11.0,76.5,57.5,67.0,Proficient
+S0874,Computer Science,82.1,13.5,95.8,81.1,74.3,Proficient
+S0875,Mathematics,80.0,15.9,69.5,37.3,54.6,Developing
+S0876,Mathematics,80.5,11.4,83.3,78.5,63.6,Proficient
+S0877,Computer Science,69.1,9.7,94.8,69.9,85.3,Excellent
+S0878,Computer Science,80.3,6.6,70.8,68.7,61.2,Proficient
+S0879,Computer Science,53.1,20.7,72.2,61.1,58.0,Developing
+S0880,Mathematics,53.5,10.9,96.9,97.7,62.8,Proficient
+S0881,Computer Science,84.7,17.4,62.3,69.1,68.2,Proficient
+S0882,Mathematics,78.1,5.7,100.0,71.0,77.2,Proficient
+S0883,Business,89.3,16.9,68.7,70.1,77.6,Proficient
+S0884,Data Analytics,70.8,10.1,65.7,58.1,65.4,Proficient
+S0885,Data Analytics,78.0,18.4,82.3,59.1,58.1,Developing
+S0886,Mathematics,86.7,8.6,99.4,68.5,75.7,Proficient
+S0887,Data Analytics,70.7,8.0,94.1,79.6,62.9,Proficient
+S0888,Computer Science,67.3,11.3,63.0,93.1,76.1,Proficient
+S0889,Computer Science,80.6,13.4,100.0,82.7,80.8,Excellent
+S0890,Data Analytics,70.5,14.7,80.5,77.0,63.7,Proficient
+S0891,Business,62.4,15.2,70.1,46.7,57.3,Developing
+S0892,Business,98.3,17.0,82.1,74.9,80.4,Excellent
+S0893,Mathematics,83.4,8.7,75.1,84.4,52.2,Developing
+S0894,Mathematics,74.1,18.5,87.2,86.2,78.6,Proficient
+S0895,Data Analytics,82.8,22.5,79.2,92.2,77.8,Proficient
+S0896,Data Analytics,74.6,12.5,91.4,56.7,57.9,Developing
+S0897,Data Analytics,54.1,10.6,69.3,52.0,42.1,Developing
+S0898,Data Analytics,70.3,6.9,77.7,47.9,53.5,Developing
+S0899,Data Analytics,98.1,12.4,75.8,62.5,81.6,Excellent
+S0900,Computer Science,85.2,10.4,77.7,72.8,55.1,Developing

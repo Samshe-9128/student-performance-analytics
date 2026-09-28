@@ -1,0 +1,7 @@
+Students = DISTINCTCOUNT(student_performance[student_id])
+Average Final Score = AVERAGE(student_performance[final_score])
+Average Attendance = AVERAGE(student_performance[attendance_pct])
+Average Assignment = AVERAGE(student_performance[assignment_avg])
+Average Midterm = AVERAGE(student_performance[midterm_score])
+At Risk Students = CALCULATE([Students], student_performance[performance_band] = "At risk")
+At Risk Share = DIVIDE([At Risk Students], [Students], 0)
